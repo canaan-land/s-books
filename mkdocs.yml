@@ -2,3 +2,43 @@ site_name: 飛行書卷
 site_url: https://canaan-land.github.io/s-books
 theme:
   name: material
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+  palette:
+
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+nav:
+  - 首頁: index.md
+  - 江端儀敬錄書籍:
+    - 生命証道集: 江端儀敬錄書籍/生命証道集.md
+    - 提防異端: 江端儀敬錄書籍/提防異端.md
+    - 金燈台（一）: 江端儀敬錄書籍/金燈台（一）.md
+    - 金燈台（二）: 江端儀敬錄書籍/金燈台（二）.md
+    - 看哪！神榮耀的作為: 江端儀敬錄書籍/看哪！神榮耀的作為.md
+    - 我們為了辯明真理: 江端儀敬錄書籍/我們為了辯明真理.md
+    - 進神的國: 江端儀敬錄書籍/進神的國.md
+    - 以斯帖記: 江端儀敬錄書籍/以斯帖記.md
+    - 聖靈行傳（上）: 江端儀敬錄書籍/聖靈行傳（上）.md
+    - 聖靈行傳（下）: 江端儀敬錄書籍/聖靈行傳（下）.md
+    - 論女人蒙頭和先知講道: 江端儀敬錄書籍/論女人蒙頭和先知講道.md
+    - 神使女江端儀姊妹蒙召事主年表: 江端儀敬錄書籍/神使女江端儀姊妹蒙召事主年表.md
