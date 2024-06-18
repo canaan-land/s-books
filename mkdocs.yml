@@ -1,7 +1,8 @@
-site_name: 飛行書卷
+site_name: 飛行書卷 - 書目
 site_url: https://canaan-land.github.io/s-books
 theme:
   name: material
+  custom_dir: docs/overrides
   features:
     - navigation.instant
     - navigation.instant.prefetch
@@ -26,6 +27,10 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
+
+plugins:
+  - search
+  - print-site
 
 nav:
   - 首頁: index.md
