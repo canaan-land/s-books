@@ -1,6 +1,10 @@
 site_name: 飛行書卷 - 書目
 site_url: https://canaan-land.github.io/s-books
 copyright: Copyright &copy; 2024 Canaan Land
+extra:
+  social:
+    - icon: material/web
+      link: https://sites.google.com/view/canaanland-organic
 theme:
   name: material
   language: zh-TW
