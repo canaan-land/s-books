@@ -45,6 +45,13 @@ plugins:
       jieba_dict: "jieba/dict.txt"
   - print-site
 
+markdown_extensions:
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  
 nav:
   - 首頁: index.md
   - 江端儀敬錄書籍:
