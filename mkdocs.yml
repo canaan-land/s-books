@@ -7,6 +7,7 @@ theme:
   features:
     - navigation.instant
     - navigation.instant.prefetch
+    - search.suggest
   palette:
 
     # Palette toggle for automatic mode
