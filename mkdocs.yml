@@ -9,6 +9,7 @@ theme:
     - navigation.instant.prefetch
     - navigation.instant.progress
     - navigation.expand
+    - toc.integrate
     - search.suggest
   palette:
 
