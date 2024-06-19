@@ -11,6 +11,7 @@ theme:
     - navigation.expand
     - toc.integrate
     - search.suggest
+    - search.share
   palette:
 
     # Palette toggle for automatic mode
