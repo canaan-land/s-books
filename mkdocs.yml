@@ -1,4 +1,4 @@
-site_name: 飛行書卷 - 書目
+site_name: 飛行書卷 - 精要索引
 site_url: https://canaan-land.github.io/s-books
 copyright: Copyright &copy; 2024 Canaan Land
 extra:
@@ -51,6 +51,9 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   
 nav:
   - 首頁: index.md
