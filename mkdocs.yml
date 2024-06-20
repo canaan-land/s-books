@@ -43,6 +43,7 @@ theme:
         name: Switch to system preference
 
 plugins:
+  - glightbox
   - search:
       jieba_dict: "jieba/dict.txt"
   - print-site
@@ -56,6 +57,8 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - attr_list
+  - md_in_html
   
 nav:
   - 首頁: index.md
