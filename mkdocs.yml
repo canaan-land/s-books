@@ -5,6 +5,8 @@ extra:
   social:
     - icon: material/web
       link: https://sites.google.com/view/canaanland-organic
+extra_css:
+  - 'overrides/main.css'
 theme:
   name: material
   language: zh-TW
