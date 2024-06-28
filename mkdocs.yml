@@ -12,6 +12,7 @@ extra_css:
 theme:
   name: material
   language: zh-TW
+  logo: assets/logo.png
   custom_dir: docs/overrides
   features:
     - navigation.instant
@@ -80,13 +81,25 @@ nav:
     - 我們在迦密山上: GJCC書籍/我們在迦密山上.md
     - 看哪！普天下主的約櫃: GJCC書籍/看哪！普天下主的約櫃.md
     - 摩利亞山上的祭壇: GJCC書籍/摩利亞山上的祭壇.md
+    - 報告神悅納人的禧年: GJCC書籍/報告神悅納人的禧年.md
     - 春天到了: GJCC書籍/春天到了.md
     - 以斯拉記: GJCC書籍/以斯拉記.md
+    - 聖徒蒙恩見證-第一集: GJCC書籍/聖徒蒙恩見證-第一集.md
+    - 聖徒蒙恩見證-第二集: GJCC書籍/聖徒蒙恩見證-第二集.md
+    - 聖徒蒙恩見證-第三集: GJCC書籍/聖徒蒙恩見證-第三集.md
+    - 接棒者: GJCC書籍/接棒者.md
     - 聖經人物（一）: GJCC書籍/聖經人物（一）.md
     - 聖經人物（二）: GJCC書籍/聖經人物（二）.md
     - 聖經人物（三）: GJCC書籍/聖經人物（三）.md
     - 聖經人物（四）: GJCC書籍/聖經人物（四）.md
+    - 迦密山上獻晚祭: GJCC書籍/迦密山上獻晚祭.md
     - 話家常: GJCC書籍/話家常.md
     - 好牧人: GJCC書籍/好牧人.md
+    - 辯明福音的職事(一): GJCC書籍/辯明福音的職事(一).md
+    - 生命的法則: GJCC書籍/生命的法則.md
+    - 扭轉乾坤的禁食禱告-上: GJCC書籍/扭轉乾坤的禁食禱告-上.md
+    - 扭轉乾坤的禁食禱告-下: GJCC書籍/扭轉乾坤的禁食禱告-下.md
+    - 絕不放棄的禁食禱告: GJCC書籍/絕不放棄的禁食禱告.md
+    - Ω禁食禱告: GJCC書籍/Ω禁食禱告.md
   - GJCC小冊:
     - 神在地上的見證中心: GJCC小冊/神在地上的見證中心.md
